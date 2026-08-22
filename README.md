@@ -4,7 +4,7 @@
 
 🔍 I am currently working on **Diffusion-based Reinforcement Learning** and **Causal Video Model**.
 
-👯 Welcome any good collaboration.
+👯 Welcome any good collaboration and offline chat.
 
 📫 How to reach me: hanyansen@hotmail.com
 
