@@ -1,5 +1,13 @@
 ## Hi, I am Yansen Han 👋
 
+🎓 I am a Ph.D. candidate in computer science. For me, doing research is for fun rather than pressure. 
+
+🔍 I am currently working on **Diffusion-based Reinforcement Learning** and **Causal Video Model**.
+
+👯 Welcome any good collaboration.
+
+📫 How to reach me: hanyansen@hotmail.com
+
 <!--
 **yansenhan/yansenhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
