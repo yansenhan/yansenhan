@@ -1,6 +1,6 @@
 ## Hi, I am Yansen Han 👋
 
-🎓 I am a Ph.D. candidate in computer science. For me, doing research is for fun rather than pressure. 
+🎓 I am a Ph.D. candidate in computer science.
 
 🔍 I am currently working on **Diffusion-based Reinforcement Learning** and **Causal Video Model**.
 
